@@ -1,2 +1,0 @@
-com/skynamo/myfirstkmm/androidKMM/BuildConfig.java
- com.skynamo.myfirstkmm.androidKMM.BuildConfig

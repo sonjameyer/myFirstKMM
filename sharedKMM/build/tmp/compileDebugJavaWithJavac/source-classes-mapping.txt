@@ -1,2 +1,0 @@
-com/skynamo/myfirstkmm/sharedKMM/BuildConfig.java
- com.skynamo.myfirstkmm.sharedKMM.BuildConfig
